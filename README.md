@@ -9,5 +9,5 @@ By David M. Hollenstein
 
 ### Environment requirements
 ---------------------------------------------------------
-- `Python 3` ttps://www.python.org/
+- `Python 3` https://www.python.org/
 - Python packages: `NumPy`, `pandas`, `MasPy`
