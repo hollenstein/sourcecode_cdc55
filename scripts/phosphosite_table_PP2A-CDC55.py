@@ -5,7 +5,7 @@ import itertools
 
 
 # Import phospho site tables
-root = 'C:/Users/hollend5/mass_spectrometry/pp2a'
+root = '../'
 table_dir = os.path.join(root, 'tables')
 setup_names = ['cdc55D', 'cdc55-degron', 'SR-cdc55D', 'SR-igoD',
                'SR', 'SR-hog1as', 'rts1D']

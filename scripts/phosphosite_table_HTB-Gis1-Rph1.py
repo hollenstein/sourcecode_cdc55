@@ -117,7 +117,7 @@ def _extract_phospho_islands(phospho, start, end):
 ###########################################################
 
 # Load evidence tables to generate the phospho islands
-root = 'C:/Users/hollend5/mass_spectrometry/pp2a'
+root = '../'
 table_dir = os.path.join(root, 'tables')
 setup_names = [
     'cdc55D', 'cdc55-degron', 'SR', 'SR-hog1as',
